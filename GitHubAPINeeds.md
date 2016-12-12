@@ -1,0 +1,34 @@
+## GitHub API Data We are Interested in (First Pass)
+
+- Activity
+	- Events
+	- Notifications
+	- Starring
+	- Watching
+- Git Data
+	- Commits
+	- References
+- Issues
+	- Comments
+	- Assignees
+	- Events
+	- Labels
+- Pull Requests
+	- Review Comments
+- Reactions
+	- Commit Comment
+	- Issue
+	- Issue Comment
+	- Pull Request Review Comment
+- Repositories
+	- Downloads
+	- Comments
+	- Collaborators
+	- Forks
+	- Merging
+	- Traffic
+	- Pages
+	- Statistics
+	- Releases (May need our own way of determining releases by looking at the commit messages)
+- Users
+	- Followers

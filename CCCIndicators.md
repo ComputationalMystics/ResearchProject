@@ -1,15 +1,15 @@
-Code Health
+##Code Health
   pull requests made vs pull requests closed
   issues submitted vs issues closed
   example of above: http://repocheck.com/#https%3A%2F%2Fgithub.com%2Ftwbs%2Fbootstrap
   stars (community?)
   watchers (community?)
 
-Community Health
+##Community Health
   number of contributors
   forks
 
-Compliance Health
+##Compliance Health
   security information
 
 

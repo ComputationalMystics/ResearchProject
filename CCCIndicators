@@ -11,3 +11,21 @@ Community Health
 
 Compliance Health
   security information
+
+
+Here are some additional indicators that I picked up from chatting with Kate Stewart and David Wheeler from the Linux Foundation and 
+CII project: 
+
+Dependency Depth 
+Bug Response Rate 
+Diversity of Contributors (by affiliation)
+-	Sustaining flow of new people coming in 
+
+Maintainers from different companies
+New participants having a decision making position 
+
+Contributions are going up beyond the core team 
+Portions of the code base are decreasing from one company (Intel)
+
+Test Coverage 
+Vulnerability Tools 

@@ -135,3 +135,4 @@ License Declared      | What license does the project declare                   
 License Conflict      | Does the project contain incompatible licenses                                                     |                                                                                |
 All Licenses          | List of licenses                                                                                   |                                                                                |
 License Count         | Number of licenses                                                                                 |                                                                                |
+License Coverage      | Number of files with a file notice (copyright notice + license notice)                             |                                                                                |

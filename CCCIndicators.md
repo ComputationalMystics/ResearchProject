@@ -119,6 +119,7 @@ Update Regularity                 |                                             
 Update Age                        | Time since last update                                  |                                                                                                                                                                                                    | Interviews: 1 <br/>[Issue/1](https://github.com/OSSHealth/HealthIndicators/issues/1)
 Repository Size                   |                                                         | Overall size of the repository or number of commits                                                                                                                                                | [Issue/1](https://github.com/OSSHealth/HealthIndicators/issues/1)
 Bugs after Release                | Number of bugs reported after a release                 |                                                                                                                                                                                                    | LFOSLS
+Code Modularity                   |                                                         | Modular code allows parallel development, which Linus Torvalds drove for Linux                                                                                                                     | Linus Torvalds at LFOSLS<br/>(Baldwin & Clark, 2006)
 
 
 ## Compliance (Risk) Health

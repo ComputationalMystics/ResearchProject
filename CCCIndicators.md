@@ -102,6 +102,7 @@ Commit Bias                 |                                                   
 Stack Overflow              | Several metrics: # of questions asked, response rate, number of responding people that have verified solutions         |                                                                                                                                                   | LFOSLS
 Non-Source Contributions    |                                                                                                                        | Track contributions like running tests in test environment, writing blog posts, producing videos, giving talks, etc...                            | LFOSLS
 Maturity Label              | Community assigned label                                                                                               | Some communities label projects as incubator, mature, (or something)                                                                              | LFOSLS
+User Groups                 |                                                                                                                        | user groups perform a variety of crucial marketing, service support, and business-development functions at the grassroots level                   | (Bagozzi & Dholakia, 2006)
 
 
 ## Code Health

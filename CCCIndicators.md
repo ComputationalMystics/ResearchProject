@@ -138,3 +138,7 @@ License Conflict      | Does the project contain incompatible licenses          
 All Licenses          | List of licenses                                                                                   |                                                                                |
 License Count         | Number of licenses                                                                                 |                                                                                |
 License Coverage      | Number of files with a file notice (copyright notice + license notice)                             |                                                                                |
+
+
+Test add link to wiki:
+[Test Link](https://github.com/OSSHealth/ghdata/wiki/Queries#Location)

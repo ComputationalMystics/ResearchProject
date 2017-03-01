@@ -60,40 +60,14 @@ Community health contains indicators descriptive of community interactions and b
 
 Name                        | Formula                                                                                                                | Description    | Related Code/Queries                                                                                                                                   | Occurance
 ----------------------------|------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------
-**Contributor Diversity**   
-| Ratio of contributors from a single company over all contributors                                                      
-| Also described as: Maintainers from different companies. Diversity of contributor affiliation. **This is mentioned frequently**                 
-|  
-| Interviews: 3
-**Issue Response Rate**     
-| Time between a new issue is opened and a maintainer responds                                                           
-| Also called: bug response rate. The maintainer is believed to not "pile on" but try to solve an issue. **This is mentioned frequently**         
-|  
-| Interviews: 3
-**Community Activity**      
-| Contribution Frequency                                                                                                 
-| (Contribution = commit, issue, comment, ...)                                                                                                      | 
-| Interviews: 3<br/>[Issue/1](https://github.com/OSSHealth/HealthIndicators/issues/1)
-**Contributor Breadth**     
-| Ratio of non-core committers (drive-by committers)                                                                     
-| Can indicate openess to outsiders                                                                                                                 | 
-| Interviews: 2
-**Contribution Diversity**  
-| Ratio of code committed by contributos other than original project initiator                                           
-| Contributions are going up beyond the core team                                                                                                   | 
-| Interviews: 1
-**Contribution Acceptance** 
-| Ratio of contributions accepted vs. closed without acceptance                                                          
-|                                                                                                                                                   | 
-| [Issue/1](https://github.com/OSSHealth/HealthIndicators/issues/1)
-**Bus Factor**              
-| see: [community/truckFactor.md](https://github.com/OSSHealth/HealthIndicators/blob/master/community/truckFactor.md)    
-| The number of developers it would need to lose to destroy its progress. Alternatively: Number of companies that would have to stop support.      
-|  
-| [Issue/1](https://github.com/OSSHealth/HealthIndicators/issues/1)<br/> 
-Literature Contibutors                 
-| Number of contributors                                                                                                 |                                                                                                                                                   | 
-| Interviews: 2 <br/> [Issue/1](https://github.com/OSSHealth/HealthIndicators/issues/1)
+**Contributor Diversity**   | Ratio of contributors from a single company over all contributors                                                      | Also described as: Maintainers from different companies. Diversity of contributor affiliation. **This is mentioned frequently**                 |  | Interviews: 3
+**Issue Response Rate**     | Time between a new issue is opened and a maintainer responds                                                           | Also called: bug response rate. The maintainer is believed to not "pile on" but try to solve an issue. **This is mentioned frequently**         |  | Interviews: 3
+**Community Activity**      | Contribution Frequency                                                                                                 | (Contribution = commit, issue, comment, ...)                                                                                                      | | Interviews: 3<br/>[Issue/1](https://github.com/OSSHealth/HealthIndicators/issues/1)
+**Contributor Breadth**     | Ratio of non-core committers (drive-by committers)                                                                     | Can indicate openess to outsiders                                                                                                                 | | Interviews: 2
+**Contribution Diversity**  | Ratio of code committed by contributos other than original project initiator                                           | Contributions are going up beyond the core team                                                                                                   | | Interviews: 1
+**Contribution Acceptance** | Ratio of contributions accepted vs. closed without acceptance                                                          |                                                                                                                                                   | | [Issue/1](https://github.com/OSSHealth/HealthIndicators/issues/1)
+**Bus Factor**              | see: [community/truckFactor.md](https://github.com/OSSHealth/HealthIndicators/blob/master/community/truckFactor.md)    | The number of developers it would need to lose to destroy its progress. Alternatively: Number of companies that would have to stop support.      |  | [Issue/1](https://github.com/OSSHealth/HealthIndicators/issues/1)<br/> Literature
+Contibutors                 | Number of contributors                                                                                                 |                                                                                                                                                   | | Interviews: 2 <br/> [Issue/1](https://github.com/OSSHealth/HealthIndicators/issues/1)
 Contributor Activity        |                                                                                                                        | Activity level of individual contributos                                                                                                          | | [Issue/1](https://github.com/OSSHealth/HealthIndicators/issues/1)
 Distribution of Work        |                                                                                                                        | How much _recent_ activity is distributed?                                                                                                        | | [Issue/1](https://github.com/OSSHealth/HealthIndicators/issues/1)
 Contribution Age            | Time since last contribution                                                                                           | Gives a sense of how active the community is. (Contribution = commit, issue, comment, ...)                                                        | | Interviews: 1

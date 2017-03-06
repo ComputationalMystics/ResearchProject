@@ -1,7 +1,7 @@
 # Initial Descriptive Stats Within Repositories for Pilot (Small, 91 Projects) Database
 
 1. ✓  Issues per week [keep in mind many GH Projects don't use the GH issue tracker]
-2. Issues Comments per issue and commenting trends over time (by week)
+2. ✓ Issues Comments per issue and commenting trends over time (by week)
   - ✓ Time of the comments (as opposed to time of issues)
 3. ✓ Pull Requests per week [keep in mind different GH projects use PR's to a greater and lesser degree]
 4. Pull Request comments (per PR, over time) 

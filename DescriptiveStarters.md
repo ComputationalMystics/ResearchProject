@@ -5,7 +5,7 @@
   - ✓ Time of the comments (as opposed to time of issues)
 3. ✓ Pull Requests per week [keep in mind different GH projects use PR's to a greater and lesser degree]
 4. Pull Request comments (per PR, over time) 
-5. Pull Request Acceptance Rates and changes over time
+5. ✓ Pull Request Acceptance Rates and changes over time
 6. ✓ Forks over time
 7. ✓ Followers over time
 8. ✓ Contributors over time

@@ -30,9 +30,11 @@ The goal of OSSHealth is to provide community resources in the development of co
 ### Outreach
 - Build OSS Health Metrics - Working Group wiki start page
 - Move indicators to working group wiki
+- Establish email list for OSS Health at the Linux Foundation
 
 ### Academic
 - Clean up HealthIndicators repository and rename it to ResearchProject
+- Crank on papers. Need to start building the base for all papers. 
 
 ## March 24: March Madness
 

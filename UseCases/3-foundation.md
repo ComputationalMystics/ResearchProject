@@ -42,7 +42,7 @@ that indicate the health and sustainability of the repository.
 2. Metrics computed from the provided repository are displayed.
 
 ## Dependent Use Cases
-1. N/A
+1. [View Metrics](view-metrics.md)
 
 ## A use case diagram, following the UML Standard for expressing use cases.
 ![use case diagram](./diagram/ViewMetrics.png)

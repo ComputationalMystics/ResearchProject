@@ -7,7 +7,7 @@ We have four major use cases:
 3. Open source foundations seek metrics for helping open source communities <sup>[<a href="3-foundation.md">3-foundation</a>]</sup>
 4. Open source community leaders seek metrics for managing their communities <sup>[<a href="4-oss.md">4-oss</a>]</sup>
 
-More use cases:
+At the core are these use cases:
 1. The [View Metrics](view-metrics.md) use case allows users to retrieve metrics
    for one repository and builds the basis for all of the above use cases.
 2. The [Compare Repositories](compare-repositories.md) use case allows users to

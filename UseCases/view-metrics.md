@@ -2,7 +2,7 @@
 
 ## Description
 The user provides a URL to a GitHub repository for a community that
-she wants to see metrics fore. The software returns
+they want to see metrics fore. The software returns
 [metrics](https://wiki.linuxfoundation.org/oss-health-metrics/metrics)
 that indicate the health and sustainability of the repository.
 
@@ -29,7 +29,7 @@ that indicate the health and sustainability of the repository.
 1. Compare metrics between repositories.
 
 ## Steps of Execution (Requirements)
-1. The use enters and submits the URL to a GitHub repository.
+1. The user enters and submits the URL to a GitHub repository.
 2. Metrics computed from the provided repository are displayed.
 
 ## Dependent Use Cases

@@ -12,6 +12,7 @@ For more information on health indicators, check out the [Linux Foundation Worki
 # Document Descriptions
 * [Roadmap](Roadmap.md) contains milestones and next steps
 * [Papers](Papers.md) outlines the papers we are working on
+* [UseCases](UseCases) documents use cases that we cover
 * [DescriptiveStarters](DescriptiveStarters.md) are first ideas that we started implementation on
 * [GitHubAPINeeds](GitHubAPINeeds.md) are some initial thoughts on where we might get data from
 * [CCCIndicators](CCCIndicators.md) moved to the [OSS Health Metrics - Working Group](https://wiki.linuxfoundation.org/oss-health-metrics/metrics)

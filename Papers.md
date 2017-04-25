@@ -40,7 +40,7 @@ At least two peer-reviewed publications or conference presentations
   - Paper can be [viewed and edited on OneDrive](https://1drv.ms/w/s!AgtaWBZ3pGD-hLQlaCt25tYQxMMD6g)
   - [Guzdial chart outlining paper](https://1drv.ms/w/s!AgtaWBZ3pGD-hK9A14jNSJ5Uf-74kQ)
 
-# Control Papers
+# <a name="control-papers"></a>Control Papers
 - Our goal is to create synergies between the Sloan project and the control paper
 - Central to our thinking are **brokers**, which we understand in two ways
   - platform as a broker that enables recursive publics, example: Linux Foundation, Reddit

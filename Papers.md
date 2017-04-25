@@ -6,15 +6,17 @@ At least two peer-reviewed publications or conference presentations
 2. Public dissemination of open source software used to determine open source community health and sustainability
 3. Archiving and documentation of repository health and sustainability extracted from Github trace data
 
-## Detailed Planning
-1. Review of health and sustainability (Theory Heavy)
+## Paper 1: Signaling Paper
+- Review of health and sustainability (Theory Heavy)
   - Metrics in the past
   - How people do this (CII Census project (core infrastructure white paper))
   - Signaling theory ??
   - Venue: Possibly MISQ or ISR, especially if we frame it through the lens of signaling theory.
   - Paper can be [viewed and edited on OneDrive](https://1drv.ms/w/s!AgtaWBZ3pGD-hLQgbq7ey7LPgvw8wg)
   - [Guzdial chart outlining paper](https://1drv.ms/w/s!AgtaWBZ3pGD-hK9H8KJ_jaC3N9temg)
-2. Initial empirical exploration of health and sustainability (Empirical Heavy)
+
+## Paper 2: Demonstrating Usefulness of metrics
+- Initial empirical exploration of health and sustainability (Empirical Heavy)
   - Hermeneutic circle for the sense making
     - Continue to do interviews and outreach
       - Asking individuals what they think of as health and sustainability
@@ -30,7 +32,9 @@ At least two peer-reviewed publications or conference presentations
   - Venue: ACM
   - Paper can be [viewed and edited on OneDrive](https://1drv.ms/w/s!AgtaWBZ3pGD-hLQiYUdZBxSdOG_bxg)
   - [Guzdial chart outlining paper](https://1drv.ms/w/s!AgtaWBZ3pGD-hK8-DFzQ9qm-aQAQnQ)
-3.  Multidisciplinary Survey: Short descriptions of the theoretical models. Possibly a classification of the research models. Possibly a framework that relates the theoretical models. Possibly a list of open research questions. (Overall Heaviest Paper: Theory and Empirical Work)
+
+## Paper 3: Changing nature of work
+- Multidisciplinary Survey: Short descriptions of the theoretical models. Possibly a classification of the research models. Possibly a framework that relates the theoretical models. Possibly a list of open research questions. (Overall Heaviest Paper: Theory and Empirical Work)
   - The work of people and companies in communities
   - Changing nature of work ?? Kind ..
   - Venue: ISR or MISQ
@@ -39,6 +43,10 @@ At least two peer-reviewed publications or conference presentations
   - **Zephyr** community may be another candidate, in addition to Fossology ..
   - Paper can be [viewed and edited on OneDrive](https://1drv.ms/w/s!AgtaWBZ3pGD-hLQlaCt25tYQxMMD6g)
   - [Guzdial chart outlining paper](https://1drv.ms/w/s!AgtaWBZ3pGD-hK9A14jNSJ5Uf-74kQ)
+
+## Paper 4: Archetypes
+- Point metrics across GitHub ecosystem and identify recurring patterns
+
 
 # <a name="control-papers"></a>Control Papers
 - Our goal is to create synergies between the Sloan project and the control paper
@@ -76,3 +84,32 @@ At least two peer-reviewed publications or conference presentations
   - We would conceptualize metrics regarding control
 - Research question: What are the controls and operations?
   - Sub-research question (between): What are the control tensions and control contradictions
+
+# <a name="nsf-funding"></a>NSF Funding Opportunities
+
+## Information and Intelligent Systems (IIS): Core Programs: Information Integration and Informatics (III)
+- Due: October 12, 2017
+- https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13707&org=CISE&sel_org=CISE&from=fund
+- https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503303&org=CISE
+- Rationale: The program is for endeavors that take on the size, diversity, and complexity of data in any application. One area with increasing data is the open source ecosystem, with 57+ million projects on GitHub and an economic value exceeding US-$5 billion. OSS Health breaks down the open source ecosystem data and develops value-driven metrics so that practitioners can exploit the data effectively. OSS Health can make contributions to several stages of the full knowledge lifecycle, including "acquisition, selection, storage, display, and preservation, use, and re-use of data, information, and knowledge for decision-making and action."
+
+## Decision, Risk and Management Sciences (DRMS)
+- Due: August 18, 2017 and January 18, 2018
+- https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5423&org=SBE&sel_org=SBE&from=fund
+- Rationale: The "program supports scientific research directed at increasing the understanding and effectiveness of decision making by individuals, groups, organizations, and society." OSS Health investigates how decisions relating to open source health are informed by metrics and how the use of metrics affects decision making.
+
+## Research on the Science and Technology Enterprise: Statistics and Surveys - R&D, U.S. S&T Competitiveness, STEM Education, S&T Workforce
+- Due: January 16, 2018
+- https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5265&org=SBE&sel_org=SBE&from=fund
+- Rationale: NCSES welcomes efforts by the research community to create and improve indicators of S&T activities and resources, and strengthen methodologies to analyze and disseminate S&T statistical data. OSS Health is a research effort to create and improve indicators of open source ecosystem activities and resources. The OSS Health project develops methodologies for analyzing and disseminating open source ecosystem statistical data.
+
+## Industry-University Cooperative Research Centers Program (IUCRC) NSF Wide Programs
+- Due: October 18, 2017 (preliminary proposal)
+- Due: June 21, 2017 / December 20, 2017 (full proposal)
+- https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5501&org=SBE&sel_org=SBE&from=fund
+- Rationale: The program financially supports research centers build a long-term partnership between industry, academe, and government. OSS Health is a center that connects with the Linux Foundation and open source engaged companies in industry, as well as with the University of Nebraska at Omaha and the University of Missouri. Maybe code.gov is interested in partnering with OSS Health.
+
+## Science of Organizations (SoO)
+- Due: September 5, 2017
+- https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504696&org=SBE&sel_org=SBE&from=fund
+- Rationale: The program funds research that advances our fundamental understanding of how organizations develop, form and operate. OSS Health investigates open source projects as a special form of organization that includes systems of coordination, management, and governance. Our contribution to control theory aligns well with this program.

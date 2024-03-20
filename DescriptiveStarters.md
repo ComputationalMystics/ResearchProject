@@ -13,5 +13,6 @@
   - ✓ Number of times a given user does each
 9. ✓ Commit & Merge activity and changes over time
   - Between Releases (if using releases)
+10. Second contributions
 
 Note: Week is an initial guess at a useful unit of time for aggregation in the initial descriptive stats
